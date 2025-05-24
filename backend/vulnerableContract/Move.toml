@@ -1,0 +1,8 @@
+[package]
+name = "vulnerable_defi"
+version = "0.0.1"
+authors = ["Tolga"]
+
+[addresses]
+vulnerable_defi = "0x0"
+sui             = "0x2"
