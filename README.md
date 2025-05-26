@@ -612,8 +612,4 @@ copies or substantial portions of the Software.
 [Website](https://suigraph.com) • [X](https://x.com/graphsui)
 
 
-**🔍 Built with ❤️ for the Sui ecosystem**
-
-[Website](https://suigraph.com) • [Documentation](https://docs.suigraph.com) • [Discord](https://discord.gg/suigraph) • [Twitter](https://twitter.com/suigraph)
-
 </div>
